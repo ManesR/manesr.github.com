@@ -27,7 +27,12 @@
 }
 
 #logo {
-	height: 1000px;
+	height: 20em;
+	weight: 20em;
+	padding-bottom: 2em;
+	align-items: center;
+	justify-content: center;
+
 }
 
 .espacio{
